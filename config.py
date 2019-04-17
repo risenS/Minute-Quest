@@ -24,7 +24,7 @@ ENEMY_MAX_ACC = 2
 ENEMY_MAX_VEL = 30
 ENEMY_VISION_RANGE = 200
 
-#Projectile Variables
+# Projectile Variables
 MAX_ACC = 3
 MAX_VELOCITY = 400
 
